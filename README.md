@@ -43,29 +43,6 @@
 - ✅ المزيد 
 
 
-### Screenshots
-
-
-![screenshots/25.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/25.jpg)
-![screenshots/18.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/18.jpg)
-![screenshots/19.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/19.jpg)
-![screenshots/20.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/20.jpg)
-![screenshots/24.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/24.jpg)
-![screenshots/6.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/6.jpg)
-![screenshots/7.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/7.jpg)
-![screenshots/8.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/8.jpg)
-![screenshots/9.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/9.jpg)
-![screenshots/10.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/10.jpg)
-![screenshots/11.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/11.jpg)
-![screenshots/12.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/12.jpg)
-![screenshots/13.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/13.jpg)
-![screenshots/14.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/14.jpg)
-![screenshots/15.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/15.jpg)
-![screenshots/16.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/16.jpg)
-![screenshots/17.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/17.jpg)
-
-
-
 <!-- - ✅ Auto & Smart Seo
 - ✅ Optimized Notifications With Images
 - ✅ Smart Alerts
